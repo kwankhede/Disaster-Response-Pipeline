@@ -65,9 +65,10 @@ Go to http://0.0.0.0:3001/
 
 Screenshopts of the web app:
 
-https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/webapp.png
+![Webapp](https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/webapp.png)
 
-https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/graph1.png
+![Genre](https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/graph1.png)
 
-https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/graph2.png
+![Distribution of disaster message categories](https://github.com/kwankhede/Disaster-Response-Pipeline/blob/master/images/graph2.png)
+
 
